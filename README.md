@@ -9,7 +9,6 @@ Herat, Afghanistan
 ## 🛠 Skills
 - Backend Development: Laravel, NestJS
 - API Development: REST APIs, gRPC
-- Web Development: WordPress
 - Soft Skills: Teamwork, Problem-Solving, Effective Communication, Multitasking
 
 ## 💼 Experience
